@@ -1,7 +1,7 @@
-# Pitchforkify
+# <a href="https://yegorkay.github.io/Pitchforkify/">Pitchforkify</a>
 A Spotify library of Pitchfork's highest rated albums.
 
-In order to fully utilize this project, please install osmosis.
+In order to fully utilize this project, please install <a href="https://github.com/rchipka/node-osmosis">osmosis<a>.
 
     npm install osmosis
 
