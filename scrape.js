@@ -6,7 +6,7 @@ let savedData = [];
 var pageNumber = 8; //this determines how many pages we scrape
 //for loop below loops through url and scrapes data as needed
 for (var i = 1; i < pageNumber; i += 1) {
-	var url = 'http://pitchfork.com/reviews/best/albums/?page=' + [i];
+var url = 'http://pitchfork.com/reviews/best/albums/?page=' + [i];
    osmosis
    .get(url)
    .follow('.fragment-list > .review @href')
