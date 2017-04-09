@@ -7,10 +7,6 @@ html, body {
     font-style: italic;
 }
 
-/** {
-   border: 1px solid red !important;
-}*/
-
 h1 {
    padding-top: 2%;
    margin-bottom: 0;
@@ -69,7 +65,7 @@ h4 {
       padding: 1%;
       margin: 0 auto;
       height: 210px;
-      width: 180px;
+      width: 150px;
       margin-bottom: 30px;
    }
 
