@@ -11,6 +11,7 @@ function loadJSON(callback) {
     xobj.send(null);
 }
 
+
 loadJSON(function(response) {
     //Grabbing the JSON and sorting it by date (newest to oldest)
     var pitchforkJSON = JSON.parse(response);
@@ -19,8 +20,8 @@ loadJSON(function(response) {
    });
 
    for (var i = 0; i < dateSort.length; i += 1) {
-      //Big dirty Spotify Search URL
-      var spotifyURL = encodeURI('https://api.spotify.com/v1/search?q=album:' + dateSort[i].album + '%20artist:' + dateSort[i].artist + '&type=album').replace(/25/g,'');
+      //Looping Spotify Search URL
+      var spotifyURL = 'https://api.spotify.com/v1/search?q=album:' + dateSort[i].album + '%20artist:' + dateSort[i].artist + '&type=album';
       //Making our Ajax call to the Spotify API
       $.ajax ({
           url: spotifyURL,
@@ -29,18 +30,20 @@ loadJSON(function(response) {
              type: 'album'
           },
           success: function(data) {
-             var openURL = data.albums.items[0].external_urls.spotify; //open Spotify
-             var albums = data.albums.items[0].images[0].url; //album images
+             var openURL = data.albums.items[0].external_urls.spotify;
+             var albumImage = data.albums.items[0].images[0].url;
              var artistName = data.albums.items[0].artists[0].name;
              var albumName = data.albums.items[0].name;
-             var albumInfo = '<div class="album"><a target="_blank" href={{url}}><img src={{image}}></a><div><p>{{artist}}</p><p>{{album}}</p></div></div>'
-             var template = Handlebars.compile(albumInfo);
-             var data = template({url: openURL,
-                image: albums,
-                artist: artistName,
-                album: albumName,
-             });
-             document.getElementById('container').innerHTML += data;
+             var albumInfo = `<div class="album">
+                                 <a target="_blank" href=${openURL}>
+                                    <img src=${albumImage}>
+                                 </a>
+                                 <div>
+                                    <p>${artistName}</p>
+                                    <p>${albumName}</p>
+                                 </div>
+                              </div>`
+             document.getElementById('container').innerHTML += albumInfo;
           },
           error: function() {
              console.log("Error retrieving spotify API");
