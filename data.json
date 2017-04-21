@@ -1,9 +1,375 @@
 [
     {
-        "artist": "Arca",
-        "album": "Arca",
+        "artist": "Kendrick Lamar",
+        "album": "DAMN.",
+        "score": "9.2",
+        "date": "April 18 2017"
+    },
+    {
+        "artist": "GAS",
+        "album": "Narkopop",
+        "score": "8.8",
+        "date": "12 hrs ago"
+    },
+    {
+        "artist": "Migos",
+        "album": "Culture",
+        "score": "8.1",
+        "date": "January 31 2017"
+    },
+    {
+        "artist": "The Avalanches",
+        "album": "Wildflower",
         "score": "8.5",
-        "date": "April 5 2017"
+        "date": "July 8 2016"
+    },
+    {
+        "artist": "Priests",
+        "album": "Nothing Feels Natural",
+        "score": "8.5",
+        "date": "February 1 2017"
+    },
+    {
+        "artist": "Kanye West",
+        "album": "The Life of Pablo",
+        "score": "9.0",
+        "date": "February 15 2016"
+    },
+    {
+        "artist": "Beyoncé",
+        "album": "Lemonade",
+        "score": "8.5",
+        "date": "April 26 2016"
+    },
+    {
+        "artist": "Kevin Morby",
+        "album": "Singing Saw",
+        "score": "8.3",
+        "date": "April 15 2016"
+    },
+    {
+        "artist": "Porches",
+        "album": "Pool",
+        "score": "8.3",
+        "date": "February 8 2016"
+    },
+    {
+        "artist": "Blood Orange",
+        "album": "Freetown Sound",
+        "score": "8.8",
+        "date": "June 30 2016"
+    },
+    {
+        "artist": "Sampha",
+        "album": "Process",
+        "score": "8.6",
+        "date": "February 3 2017"
+    },
+    {
+        "artist": "Nicolas Jaar",
+        "album": "Sirens",
+        "score": "8.7",
+        "date": "September 29 2016"
+    },
+    {
+        "artist": "Joanna Newsom",
+        "album": "Divers",
+        "score": "8.5",
+        "date": "October 19 2015"
+    },
+    {
+        "artist": "Floating Points",
+        "album": "Elaenia",
+        "score": "8.4",
+        "date": "November 3 2015"
+    },
+    {
+        "artist": "ANOHNI",
+        "album": "HOPELESSNESS",
+        "score": "9.0",
+        "date": "May 5 2016"
+    },
+    {
+        "artist": "Bon Iver",
+        "album": "22, A Million",
+        "score": "9.0",
+        "date": "September 30 2016"
+    },
+    {
+        "artist": "Moodymann",
+        "album": "DJ-Kicks",
+        "score": "8.4",
+        "date": "February 17 2016"
+    },
+    {
+        "artist": "Esperanza Spalding",
+        "album": "Emily’s D+Evolution",
+        "score": "8.6",
+        "date": "March 4 2016"
+    },
+    {
+        "artist": "Julie Byrne",
+        "album": "Not Even Happiness",
+        "score": "8.3",
+        "date": "February 6 2017"
+    },
+    {
+        "artist": "Danny Brown",
+        "album": "Atrocity Exhibition",
+        "score": "8.5",
+        "date": "October 3 2016"
+    },
+    {
+        "artist": "Oneohtrix Point Never",
+        "album": "Garden of Delete",
+        "score": "8.7",
+        "date": "November 9 2015"
+    },
+    {
+        "artist": "White Lung",
+        "album": "Paradise",
+        "score": "8.4",
+        "date": "May 6 2016"
+    },
+    {
+        "artist": "Schoolboy Q",
+        "album": "Blank Face LP",
+        "score": "8.3",
+        "date": "July 14 2016"
+    },
+    {
+        "artist": "Future",
+        "album": "Dirty Sprite 2",
+        "score": "8.4",
+        "date": "July 22 2015"
+    },
+    {
+        "artist": "Jenny Hval",
+        "album": "Blood Bitch",
+        "score": "8.3",
+        "date": "October 4 2016"
+    },
+    {
+        "artist": "Visible Cloaks",
+        "album": "Reassemblage",
+        "score": "8.7",
+        "date": "February 20 2017"
+    },
+    {
+        "artist": "Grimes",
+        "album": "Art Angels",
+        "score": "8.5",
+        "date": "November 10 2015"
+    },
+    {
+        "artist": "Arca",
+        "album": "Mutant",
+        "score": "8.4",
+        "date": "November 18 2015"
+    },
+    {
+        "artist": "Anna Meredith",
+        "album": "Varmints",
+        "score": "8.4",
+        "date": "March 7 2016"
+    },
+    {
+        "artist": "Neon Indian",
+        "album": "VEGA INTL. Night School",
+        "score": "8.6",
+        "date": "October 14 2015"
+    },
+    {
+        "artist": "Maxwell",
+        "album": "blackSUMMERS’night",
+        "score": "8.4",
+        "date": "July 12 2016"
+    },
+    {
+        "artist": "Solange",
+        "album": "A Seat at the Table",
+        "score": "8.7",
+        "date": "October 5 2016"
+    },
+    {
+        "artist": "Dr. Dre",
+        "album": "Compton",
+        "score": "8.8",
+        "date": "August 11 2015"
+    },
+    {
+        "artist": "Jeremih",
+        "album": "Late Nights: The Album",
+        "score": "8.3",
+        "date": "December 9 2015"
+    },
+    {
+        "artist": "Kendrick Lamar",
+        "album": "untitled unmastered.",
+        "score": "8.6",
+        "date": "March 8 2016"
+    },
+    {
+        "artist": "NxWorries",
+        "album": "Yes Lawd!",
+        "score": "8.2",
+        "date": "October 18 2016"
+    },
+    {
+        "artist": "James Blake",
+        "album": "The Colour in Anything",
+        "score": "8.2",
+        "date": "May 10 2016"
+    },
+    {
+        "artist": "Thundercat",
+        "album": "Drunk",
+        "score": "8.5",
+        "date": "February 27 2017"
+    },
+    {
+        "artist": "Baroness",
+        "album": "Purple",
+        "score": "8.5",
+        "date": "December 10 2015"
+    },
+    {
+        "artist": "Beach House",
+        "album": "Depression Cherry",
+        "score": "8.4",
+        "date": "August 18 2015"
+    },
+    {
+        "artist": "Power Trip",
+        "album": "Nightmare Logic",
+        "score": "8.4",
+        "date": "March 1 2017"
+    },
+    {
+        "artist": "Weyes Blood",
+        "album": "Front Row Seat to Earth",
+        "score": "8.3",
+        "date": "October 19 2016"
+    },
+    {
+        "artist": "Elza Soares",
+        "album": "A Mulher do Fim do Mundo (The Woman at the End of the World)",
+        "score": "8.4",
+        "date": "July 29 2016"
+    },
+    {
+        "artist": "Leonard Cohen",
+        "album": "You Want It Darker",
+        "score": "8.5",
+        "date": "October 24 2016"
+    },
+    {
+        "artist": "Sheer Mag",
+        "album": "III EP",
+        "score": "8.3",
+        "date": "March 14 2016"
+    },
+    {
+        "artist": "FKA twigs",
+        "album": "M3LL155X",
+        "score": "8.6",
+        "date": "August 19 2015"
+    },
+    {
+        "artist": "Radiohead",
+        "album": "A Moon Shaped Pool",
+        "score": "9.1",
+        "date": "May 11 2016"
+    },
+    {
+        "artist": "Archy Marshall",
+        "album": "A New Place 2 Drown",
+        "score": "8.6",
+        "date": "December 11 2015"
+    },
+    {
+        "artist": "Vagabon",
+        "album": "Infinite Worlds",
+        "score": "8.5",
+        "date": "March 2 2017"
+    },
+    {
+        "artist": "David Bowie",
+        "album": "Blackstar",
+        "score": "8.5",
+        "date": "January 7 2016"
+    },
+    {
+        "artist": "A Tribe Called Quest",
+        "album": "We got it from Here... Thank You 4 Your service",
+        "score": "9.0",
+        "date": "November 17 2016"
+    },
+    {
+        "artist": "Kate Bush",
+        "album": "Before the Dawn",
+        "score": "8.5",
+        "date": "November 28 2016"
+    },
+    {
+        "artist": "Jay Som",
+        "album": "Everybody Works",
+        "score": "8.6",
+        "date": "March 10 2017"
+    },
+    {
+        "artist": "Jamila Woods",
+        "album": "HEAVN",
+        "score": "8.4",
+        "date": "July 21 2016"
+    },
+    {
+        "artist": "Chance the Rapper",
+        "album": "Coloring Book",
+        "score": "9.1",
+        "date": "May 17 2016"
+    },
+    {
+        "artist": "Vijay Iyer",
+        "album": "A Cosmic Rhythm With Each Stroke",
+        "score": "8.5",
+        "date": "March 23 2016"
+    },
+    {
+        "artist": "Empress Of",
+        "album": "Me",
+        "score": "8.2",
+        "date": "September 8 2015"
+    },
+    {
+        "artist": "Frank Ocean",
+        "album": "Blonde",
+        "score": "9.0",
+        "date": "August 25 2016"
+    },
+    {
+        "artist": "Frank Ocean",
+        "album": "Endless",
+        "score": "9.0",
+        "date": "August 25 2016"
+    },
+    {
+        "artist": "Frank Ocean",
+        "album": "Endless",
+        "score": "7.5",
+        "date": "August 25 2016"
+    },
+    {
+        "artist": "Mount Eerie",
+        "album": "A Crow Looked At Me",
+        "score": "9.0",
+        "date": "March 24 2017"
+    },
+    {
+        "artist": "Anderson .Paak",
+        "album": "Malibu",
+        "score": "8.6",
+        "date": "January 11 2016"
     },
     {
         "artist": "Various Artists",
@@ -12,16 +378,100 @@
         "date": "April 4 2017"
     },
     {
+        "artist": "Julia Holter",
+        "album": "Have You In My Wilderness",
+        "score": "8.4",
+        "date": "September 18 2015"
+    },
+    {
+        "artist": "Kamaiyah",
+        "album": "A Good Night in the Ghetto",
+        "score": "8.2",
+        "date": "March 24 2016"
+    },
+    {
+        "artist": "Young Thug",
+        "album": "JEFFERY",
+        "score": "8.5",
+        "date": "September 1 2016"
+    },
+    {
+        "artist": "Frankie Cosmos",
+        "album": "Next Thing",
+        "score": "8.5",
+        "date": "April 1 2016"
+    },
+    {
+        "artist": "Kevin Gates",
+        "album": "Islah",
+        "score": "8.5",
+        "date": "February 4 2016"
+    },
+    {
+        "artist": "Angel Olsen",
+        "album": "My Woman",
+        "score": "8.8",
+        "date": "September 2 2016"
+    },
+    {
+        "artist": "Kurt Vile",
+        "album": "b’lieve i’m goin down",
+        "score": "8.4",
+        "date": "September 22 2015"
+    },
+    {
+        "artist": "Arca",
+        "album": "Arca",
+        "score": "8.5",
+        "date": "April 5 2017"
+    },
+    {
+        "artist": "Joey Purp",
+        "album": "iiiDrops",
+        "score": "8.2",
+        "date": "June 3 2016"
+    },
+    {
+        "artist": "Car Seat Headrest",
+        "album": "Teens of Denial",
+        "score": "8.5",
+        "date": "May 20 2016"
+    },
+    {
+        "artist": "Run the Jewels",
+        "album": "Run the Jewels 3",
+        "score": "8.6",
+        "date": "January 3 2017"
+    },
+    {
+        "artist": "Whitney",
+        "album": "Light Upon the Lake",
+        "score": "8.3",
+        "date": "June 6 2016"
+    },
+    {
+        "artist": "Deafheaven",
+        "album": "New Bermuda",
+        "score": "9.0",
+        "date": "October 1 2015"
+    },
+    {
+        "artist": "Nick Cave & the Bad Seeds",
+        "album": "Skeleton Tree",
+        "score": "9.0",
+        "date": "September 14 2016"
+    },
+    {
+        "artist": "dvsn",
+        "album": "Sept. 5th",
+        "score": "8.3",
+        "date": "April 5 2016"
+    },
+    {
         "artist": "Kaitlyn Aurelia Smith",
         "album": "Sunergy",
         "score": "8.4",
         "date": "September 15 2016"
-    },
-    {
-        "artist": "Migos",
-        "album": "Culture",
-        "score": "8.1",
-        "date": "January 31 2017"
     },
     {
         "artist": "The xx",
@@ -36,58 +486,10 @@
         "date": "June 22 2016"
     },
     {
-        "artist": "Run the Jewels",
-        "album": "Run the Jewels 3",
-        "score": "8.6",
-        "date": "January 3 2017"
-    },
-    {
-        "artist": "Anderson .Paak",
-        "album": "Malibu",
-        "score": "8.6",
-        "date": "January 11 2016"
-    },
-    {
-        "artist": "Kevin Morby",
-        "album": "Singing Saw",
-        "score": "8.3",
-        "date": "April 15 2016"
-    },
-    {
-        "artist": "Hamilton Leithauser",
-        "album": "I Had a Dream That You Were Mine",
-        "score": "8.3",
-        "date": "September 23 2016"
-    },
-    {
         "artist": "Parquet Courts",
         "album": "Human Performance",
         "score": "8.4",
         "date": "April 8 2016"
-    },
-    {
-        "artist": "dvsn",
-        "album": "Sept. 5th",
-        "score": "8.3",
-        "date": "April 5 2016"
-    },
-    {
-        "artist": "Neon Indian",
-        "album": "VEGA INTL. Night School",
-        "score": "8.6",
-        "date": "October 14 2015"
-    },
-    {
-        "artist": "G.L.O.S.S.",
-        "album": "Trans Day of Revenge",
-        "score": "8.5",
-        "date": "June 24 2016"
-    },
-    {
-        "artist": "Beyoncé",
-        "album": "Lemonade",
-        "score": "8.5",
-        "date": "April 26 2016"
     },
     {
         "artist": "Kelela",
@@ -96,411 +498,21 @@
         "date": "October 7 2015"
     },
     {
+        "artist": "Hamilton Leithauser",
+        "album": "I Had a Dream That You Were Mine",
+        "score": "8.3",
+        "date": "September 23 2016"
+    },
+    {
         "artist": "Deerhunter",
         "album": "Fading Frontier",
         "score": "8.4",
         "date": "October 12 2015"
     },
     {
-        "artist": "Bon Iver",
-        "album": "22, A Million",
-        "score": "9.0",
-        "date": "September 30 2016"
-    },
-    {
-        "artist": "Blood Orange",
-        "album": "Freetown Sound",
-        "score": "8.8",
-        "date": "June 30 2016"
-    },
-    {
-        "artist": "Kanye West",
-        "album": "The Life of Pablo",
-        "score": "9.0",
-        "date": "February 15 2016"
-    },
-    {
-        "artist": "Priests",
-        "album": "Nothing Feels Natural",
+        "artist": "G.L.O.S.S.",
+        "album": "Trans Day of Revenge",
         "score": "8.5",
-        "date": "February 1 2017"
-    },
-    {
-        "artist": "Porches",
-        "album": "Pool",
-        "score": "8.3",
-        "date": "February 8 2016"
-    },
-    {
-        "artist": "Danny Brown",
-        "album": "Atrocity Exhibition",
-        "score": "8.5",
-        "date": "October 3 2016"
-    },
-    {
-        "artist": "Sampha",
-        "album": "Process",
-        "score": "8.6",
-        "date": "February 3 2017"
-    },
-    {
-        "artist": "Miguel",
-        "album": "Wildheart",
-        "score": "8.9",
-        "date": "July 1 2015"
-    },
-    {
-        "artist": "Tame Impala",
-        "album": "Currents",
-        "score": "9.3",
-        "date": "July 13 2015"
-    },
-    {
-        "artist": "The Avalanches",
-        "album": "Wildflower",
-        "score": "8.5",
-        "date": "July 8 2016"
-    },
-    {
-        "artist": "Jenny Hval",
-        "album": "Blood Bitch",
-        "score": "8.3",
-        "date": "October 4 2016"
-    },
-    {
-        "artist": "Moodymann",
-        "album": "DJ-Kicks",
-        "score": "8.4",
-        "date": "February 17 2016"
-    },
-    {
-        "artist": "Julie Byrne",
-        "album": "Not Even Happiness",
-        "score": "8.3",
-        "date": "February 6 2017"
-    },
-    {
-        "artist": "Joanna Newsom",
-        "album": "Divers",
-        "score": "8.5",
-        "date": "October 19 2015"
-    },
-    {
-        "artist": "Future",
-        "album": "Dirty Sprite 2",
-        "score": "8.4",
-        "date": "July 22 2015"
-    },
-    {
-        "artist": "Solange",
-        "album": "A Seat at the Table",
-        "score": "8.7",
-        "date": "October 5 2016"
-    },
-    {
-        "artist": "ANOHNI",
-        "album": "HOPELESSNESS",
-        "score": "9.0",
-        "date": "May 5 2016"
-    },
-    {
-        "artist": "Dr. Dre",
-        "album": "Compton",
-        "score": "8.8",
-        "date": "August 11 2015"
-    },
-    {
-        "artist": "Schoolboy Q",
-        "album": "Blank Face LP",
-        "score": "8.3",
-        "date": "July 14 2016"
-    },
-    {
-        "artist": "James Blake",
-        "album": "The Colour in Anything",
-        "score": "8.2",
-        "date": "May 10 2016"
-    },
-    {
-        "artist": "Visible Cloaks",
-        "album": "Reassemblage",
-        "score": "8.7",
-        "date": "February 20 2017"
-    },
-    {
-        "artist": "Esperanza Spalding",
-        "album": "Emily’s D+Evolution",
-        "score": "8.6",
-        "date": "March 4 2016"
-    },
-    {
-        "artist": "White Lung",
-        "album": "Paradise",
-        "score": "8.4",
-        "date": "May 6 2016"
-    },
-    {
-        "artist": "Floating Points",
-        "album": "Elaenia",
-        "score": "8.4",
-        "date": "November 3 2015"
-    },
-    {
-        "artist": "Maxwell",
-        "album": "blackSUMMERS’night",
-        "score": "8.4",
-        "date": "July 12 2016"
-    },
-    {
-        "artist": "Jamila Woods",
-        "album": "HEAVN",
-        "score": "8.4",
-        "date": "July 21 2016"
-    },
-    {
-        "artist": "NxWorries",
-        "album": "Yes Lawd!",
-        "score": "8.2",
-        "date": "October 18 2016"
-    },
-    {
-        "artist": "Beach House",
-        "album": "Depression Cherry",
-        "score": "8.4",
-        "date": "August 18 2015"
-    },
-    {
-        "artist": "Anna Meredith",
-        "album": "Varmints",
-        "score": "8.4",
-        "date": "March 7 2016"
-    },
-    {
-        "artist": "Thundercat",
-        "album": "Drunk",
-        "score": "8.5",
-        "date": "February 27 2017"
-    },
-    {
-        "artist": "Radiohead",
-        "album": "A Moon Shaped Pool",
-        "score": "9.1",
-        "date": "May 11 2016"
-    },
-    {
-        "artist": "Elza Soares",
-        "album": "A Mulher do Fim do Mundo (The Woman at the End of the World)",
-        "score": "8.4",
-        "date": "July 29 2016"
-    },
-    {
-        "artist": "Power Trip",
-        "album": "Nightmare Logic",
-        "score": "8.4",
-        "date": "March 1 2017"
-    },
-    {
-        "artist": "Oneohtrix Point Never",
-        "album": "Garden of Delete",
-        "score": "8.7",
-        "date": "November 9 2015"
-    },
-    {
-        "artist": "Weyes Blood",
-        "album": "Front Row Seat to Earth",
-        "score": "8.3",
-        "date": "October 19 2016"
-    },
-    {
-        "artist": "Frank Ocean",
-        "album": "Blonde",
-        "score": "7.5",
-        "date": "August 25 2016"
-    },
-    {
-        "artist": "Frank Ocean",
-        "album": "Endless",
-        "score": "9.0",
-        "date": "August 25 2016"
-    },
-    {
-        "artist": "Frank Ocean",
-        "album": "Endless",
-        "score": "7.5",
-        "date": "August 25 2016"
-    },
-    {
-        "artist": "Leonard Cohen",
-        "album": "You Want It Darker",
-        "score": "8.5",
-        "date": "October 24 2016"
-    },
-    {
-        "artist": "Chance the Rapper",
-        "album": "Coloring Book",
-        "score": "9.1",
-        "date": "May 17 2016"
-    },
-    {
-        "artist": "FKA twigs",
-        "album": "M3LL155X",
-        "score": "8.6",
-        "date": "August 19 2015"
-    },
-    {
-        "artist": "Sheer Mag",
-        "album": "III EP",
-        "score": "8.3",
-        "date": "March 14 2016"
-    },
-    {
-        "artist": "Empress Of",
-        "album": "Me",
-        "score": "8.2",
-        "date": "September 8 2015"
-    },
-    {
-        "artist": "Vagabon",
-        "album": "Infinite Worlds",
-        "score": "8.5",
-        "date": "March 2 2017"
-    },
-    {
-        "artist": "A Tribe Called Quest",
-        "album": "We got it from Here... Thank You 4 Your service",
-        "score": "9.0",
-        "date": "November 17 2016"
-    },
-    {
-        "artist": "Vijay Iyer",
-        "album": "A Cosmic Rhythm With Each Stroke",
-        "score": "8.5",
-        "date": "March 23 2016"
-    },
-    {
-        "artist": "Grimes",
-        "album": "Art Angels",
-        "score": "8.5",
-        "date": "November 10 2015"
-    },
-    {
-        "artist": "Kendrick Lamar",
-        "album": "untitled unmastered.",
-        "score": "8.6",
-        "date": "March 8 2016"
-    },
-    {
-        "artist": "Young Thug",
-        "album": "JEFFERY",
-        "score": "8.5",
-        "date": "September 1 2016"
-    },
-    {
-        "artist": "Kate Bush",
-        "album": "Before the Dawn",
-        "score": "8.5",
-        "date": "November 28 2016"
-    },
-    {
-        "artist": "Julia Holter",
-        "album": "Have You In My Wilderness",
-        "score": "8.4",
-        "date": "September 18 2015"
-    },
-    {
-        "artist": "Jay Som",
-        "album": "Everybody Works",
-        "score": "8.6",
-        "date": "March 10 2017"
-    },
-    {
-        "artist": "Arca",
-        "album": "Mutant",
-        "score": "8.4",
-        "date": "November 18 2015"
-    },
-    {
-        "artist": "Kurt Vile",
-        "album": "b’lieve i’m goin down",
-        "score": "8.4",
-        "date": "September 22 2015"
-    },
-    {
-        "artist": "Angel Olsen",
-        "album": "My Woman",
-        "score": "8.8",
-        "date": "September 2 2016"
-    },
-    {
-        "artist": "Car Seat Headrest",
-        "album": "Teens of Denial",
-        "score": "8.5",
-        "date": "May 20 2016"
-    },
-    {
-        "artist": "Kamaiyah",
-        "album": "A Good Night in the Ghetto",
-        "score": "8.2",
-        "date": "March 24 2016"
-    },
-    {
-        "artist": "Deafheaven",
-        "album": "New Bermuda",
-        "score": "9.0",
-        "date": "October 1 2015"
-    },
-    {
-        "artist": "Jeremih",
-        "album": "Late Nights: The Album",
-        "score": "8.3",
-        "date": "December 9 2015"
-    },
-    {
-        "artist": "Mount Eerie",
-        "album": "A Crow Looked At Me",
-        "score": "9.0",
-        "date": "March 24 2017"
-    },
-    {
-        "artist": "Nick Cave & the Bad Seeds",
-        "album": "Skeleton Tree",
-        "score": "9.0",
-        "date": "September 14 2016"
-    },
-    {
-        "artist": "Joey Purp",
-        "album": "iiiDrops",
-        "score": "8.2",
-        "date": "June 3 2016"
-    },
-    {
-        "artist": "Frankie Cosmos",
-        "album": "Next Thing",
-        "score": "8.5",
-        "date": "April 1 2016"
-    },
-    {
-        "artist": "Baroness",
-        "album": "Purple",
-        "score": "8.5",
-        "date": "December 10 2015"
-    },
-    {
-        "artist": "Archy Marshall",
-        "album": "A New Place 2 Drown",
-        "score": "8.6",
-        "date": "December 11 2015"
-    },
-    {
-        "artist": "Whitney",
-        "album": "Light Upon the Lake",
-        "score": "8.3",
-        "date": "June 6 2016"
-    },
-    {
-        "artist": "David Bowie",
-        "album": "Blackstar",
-        "score": "8.5",
-        "date": "January 7 2016"
+        "date": "June 24 2016"
     }
 ]
