@@ -9,3 +9,5 @@ Latest update:
 Features to add:
 - Loading animations.
 - Possible search utlity/categories.
+
+Current demo requires mixed content to be enabled. In Chrome, a shield icon will appear at the end of the address bar, click it, then enable unsafe scripts (it's safe! The message only appears due to the Pitchfork API using `http` rather than `https` which results in mixed content). 
