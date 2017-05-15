@@ -5,6 +5,7 @@ html, body {
     font-family: 'Playfair Display', serif;
     text-align: center;
     font-style: italic;
+    background-color: #fffdfc;
 }
 
 h1 {
@@ -32,7 +33,7 @@ h4 {
       padding: 1%;
       margin: 0 auto;
       height: auto;
-      width: 250px;
+      width: 300px;
       padding-bottom: 1%;
    }
 
@@ -41,14 +42,16 @@ h4 {
       width: 250px;
       height: 250px;
       box-shadow: 10px 10px 16px -3px rgba(0,0,0,0.10);
-      transition: 0.4s;
+      transition: 0.2s;
       margin-bottom: 20px;
+      border-radius: 50%;
    }
 
    img:hover {
-      transition: 0.4s;
-      opacity: 0.75;
-
+      transition: 0.2s;
+      transform: scale(1.1);
+      opacity: 0.90;
+      border-radius: 3%;
    }
 
    p {
@@ -65,7 +68,7 @@ h4 {
       padding: 1%;
       margin: 0 auto;
       height: 210px;
-      width: 150px;
+      width: 180px;
       margin-bottom: 30px;
    }
 
@@ -75,5 +78,16 @@ h4 {
       box-shadow: 10px 10px 16px -3px rgba(0,0,0,0.10);
       transition: 0.4s;
       margin-bottom: 15px;
+   }
+}
+
+@media(max-width: 320px) {
+   .album {
+      width: 150px;
+      margin-bottom: 15px;
+   }
+   img {
+      width: 125px;
+      height: 125px;
    }
 }
