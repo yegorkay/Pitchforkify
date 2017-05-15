@@ -5,14 +5,14 @@ function generateContent (x) {
 		var artistName = x.albums.items[0].artists[0].name;
 		var albumName = x.albums.items[0].name;
 		var albumInfo = `<div class="album">
-								  <a target="_blank" href=${openURL}>
-									  <img src=${albumImage}>
-								  </a>
-								  <div>
-									  <p>${artistName}</p>
-									  <p>${albumName}</p>
-								  </div>
-							  </div>`
+												<a target="_blank" href=${openURL}>
+													<img src=${albumImage}>
+												</a>
+												<div>
+													<p>${artistName}</p>
+													<p>${albumName}</p>
+												</div>
+											</div>`
 		document.getElementById('container').innerHTML += albumInfo;
 	} else {
 		console.log('This album is not on Spotify.');
