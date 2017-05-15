@@ -1,10 +1,11 @@
 # <a href="https://yegorkay.github.io/Pitchforkify/">Pitchforkify</a>
 A Spotify library of Pitchfork's highest rated albums.
 
-In order to fully utilize this project, please install <a href="https://github.com/rchipka/node-osmosis">osmosis<a>.
+Latest update: 
+- Now references the Pitchfork API instead of a local JSON file. So no more web scraping with Osmosis or Node. 
+- Infinite scrolling is now implemented. 
+- No more jQuery. Just JavaScript.
 
-    npm install osmosis
-
-Afterwards, run `scrape.js` and modify your page range as desired which will then output your results to `data.JSON`.
-
-Future iterations of this project will include pagination and search functionality. 
+Features to add:
+- Loading animations.
+- Possible search utlity/categories.
